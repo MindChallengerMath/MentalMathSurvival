@@ -1,0 +1,83 @@
+{
+  "__bytecode.const": {
+    "blob_name": ".bytecode",
+    "blob_size": 6788308,
+    "input_size": 6813884
+  },
+  "__constants.const": {
+    "blob_name": "",
+    "blob_size": 972,
+    "input_size": 2430
+  },
+  "module.PySide6-postLoad.const": {
+    "blob_name": "PySide6-postLoad",
+    "blob_size": 1335,
+    "input_size": 3118
+  },
+  "module.PySide6-preLoad.const": {
+    "blob_name": "PySide6-preLoad",
+    "blob_size": 148,
+    "input_size": 825
+  },
+  "module.PySide6.QtCore-postLoad.const": {
+    "blob_name": "PySide6.QtCore-postLoad",
+    "blob_size": 264,
+    "input_size": 960
+  },
+  "module.PySide6.const": {
+    "blob_name": "PySide6",
+    "blob_size": 2495,
+    "input_size": 4674
+  },
+  "module.PySide6.support.const": {
+    "blob_name": "PySide6.support",
+    "blob_size": 281,
+    "input_size": 975
+  },
+  "module.PySide6.support.deprecated.const": {
+    "blob_name": "PySide6.support.deprecated",
+    "blob_size": 112,
+    "input_size": 706
+  },
+  "module.__main__.const": {
+    "blob_name": "__main__",
+    "blob_size": 711,
+    "input_size": 1710
+  },
+  "module.operations.const": {
+    "blob_name": "operations",
+    "blob_size": 400,
+    "input_size": 1413
+  },
+  "module.sceneChanger.const": {
+    "blob_name": "sceneChanger",
+    "blob_size": 669,
+    "input_size": 1585
+  },
+  "module.scenes.const": {
+    "blob_name": "scenes",
+    "blob_size": 113,
+    "input_size": 693
+  },
+  "module.scenes.difficultyMenu.const": {
+    "blob_name": "scenes.difficultyMenu",
+    "blob_size": 1159,
+    "input_size": 2621
+  },
+  "module.scenes.game.const": {
+    "blob_name": "scenes.game",
+    "blob_size": 1581,
+    "input_size": 3693
+  },
+  "module.scenes.mainMenu.const": {
+    "blob_name": "scenes.mainMenu",
+    "blob_size": 1280,
+    "input_size": 3108
+  },
+  "module.shiboken6.const": {
+    "blob_name": "shiboken6",
+    "blob_size": 417,
+    "input_size": 1357
+  },
+  "total": 1059
+}
